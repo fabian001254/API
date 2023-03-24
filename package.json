@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "conexion a api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Fabian Trujillo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
